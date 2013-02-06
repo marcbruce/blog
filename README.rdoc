@@ -1,4 +1,5 @@
 HIIII KEKS
+COMMITT THISS!
 
 == Welcome to Rails
 
